@@ -1,0 +1,27 @@
+{
+  "name": "ajscontainersmap",
+  "version": "1.0.0",
+  "description": "map",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ovp2023/ajscontainermap.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "ovp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ovp2023/ajscontainermap/issues"
+  },
+  "homepage": "https://github.com/ovp2023/ajscontainermap#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.22.9",
+    "core-js": "^3.32.0",
+    "jest": "^29.6.2"
+  }
+}
